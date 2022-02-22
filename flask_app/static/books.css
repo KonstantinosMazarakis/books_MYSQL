@@ -1,0 +1,23 @@
+main {
+    display: flex;
+    min-height: 200px;
+}
+
+.leftside {
+    flex:1;
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+    max-height: 300px;
+}
+
+.rightside {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+
+.right {
+    margin: 1rem 3.1rem;
+}
